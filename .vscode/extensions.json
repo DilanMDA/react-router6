@@ -1,6 +1,9 @@
 {
   "recommendations": [
     "xabikos.javascriptsnippets",
-    "dsznajder.es7-react-js-snippets"
+    "dsznajder.es7-react-js-snippets",
+    "steoates.autoimport",
+    "nucllear.vscode-extension-auto-import",
+    "formulahendry.auto-rename-tag"
   ]
 }
