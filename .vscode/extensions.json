@@ -4,6 +4,8 @@
     "dsznajder.es7-react-js-snippets",
     "steoates.autoimport",
     "nucllear.vscode-extension-auto-import",
-    "formulahendry.auto-rename-tag"
+    "formulahendry.auto-rename-tag",
+    "formulahendry.auto-complete-tag",
+    "abusaidm.html-snippets"
   ]
 }
